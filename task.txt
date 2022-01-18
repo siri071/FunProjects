@@ -1,1 +1,2 @@
-project to print the calendar
+cal.py --> project to print the calendar
+game.py --> snake,water,gun
